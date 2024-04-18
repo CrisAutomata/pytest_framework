@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="2" skipped="0" tests="3" time="0.328" timestamp="2024-04-18T15:02:01.673583" hostname="win11SSD"><testcase classname="test.test_suite_2" name="test_4" time="0.005"><failure message="assert 2 == (1 - 0)">def test_4():
+&gt;       assert 2 == 1 - 0
+E       assert 2 == (1 - 0)
+
+test\test_suite_2.py:3: AssertionError</failure></testcase><testcase classname="test.test_suite_2" name="test_5" time="0.001"><failure message="assert 12 == 2">def test_5():
+&gt;       assert 12== 2
+E       assert 12 == 2
+
+test\test_suite_2.py:6: AssertionError</failure></testcase><testcase classname="test.test_suite_2" name="test_6" time="0.001" /></testsuite></testsuites>
