@@ -20,3 +20,4 @@ The 2nd test suite include: test_4, test_5, test_6
 pytest test/test_suite_2.py -rA -v --junitxml=test_result.xml
 ```
 
+## Or you can check out demo video in file "report_to_excel.mp4"
